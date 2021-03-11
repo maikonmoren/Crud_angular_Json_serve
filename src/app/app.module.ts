@@ -29,7 +29,6 @@ import {FormsModule} from "@angular/forms";
 import {MatFormFieldModule} from "@angular/material/form-field";
 import {MatInputModule} from "@angular/material/input";
 import { ReadComponent } from './components/products/read/read.component';
-import { Read2Component } from './components/products/read2/read2.component';
 import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
@@ -53,7 +52,6 @@ registerLocaleData(localePt);
     ForDirective,
     CreateComponent,
     ReadComponent,
-    Read2Component,
     UpdateComponent,
     DeleteComponent,
   ],
