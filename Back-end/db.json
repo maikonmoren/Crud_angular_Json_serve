@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta BIC preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook intel pro",
+      "price": "10000.89"
+    },
+    {
+      "id": 3,
+      "name": "caneta BIC Vermelha",
+      "price": 5.89
+    },
+    {
+      "name": "Moto",
+      "price": "7.77",
+      "id": 4
+    }
+  ]
+}
